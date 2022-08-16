@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`zeta-liquideo HTTP GET /markets 1`] = `
+Array [
+  Object {
+    "address": "37Chq2NiKcTekr3WwnDdrV6edC2hVfxVkpEPhXJx2KWV",
+    "alias": Array [
+      "SOL-22",
+      "SOL/0",
+    ],
+    "asset": 0,
+    "baseMintAddress": "5eKdcMwLmsnmZ3CSNLpsumxoFS6WZKNzW1oQNdxipAAM",
+    "expiryIndex": 0,
+    "marketIndex": 22,
+    "minOrderSize": 1,
+    "name": "SOL-22",
+    "programId": "zDEXqXEG7gAyxb1Kg9mK5fPnUdENCGKzWrM21RMdWRq",
+    "quoteMintAddress": "2XRjQTsnHLszFwusQoYmbrKASgYbNG4Z8FsZaUo28HBJ",
+    "tickSize": 0.000001,
+    "version": 3,
+  },
+]
+`;
